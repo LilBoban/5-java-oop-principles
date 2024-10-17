@@ -1,0 +1,6 @@
+[INFO] 2024.10.17 10:52:02 testlog - Info message
+[WARNING] 2024.10.17 10:52:02 testlog - Warning message
+[ERROR] 2024.10.17 10:52:02 testlog - Error message
+[INFO] 2024.10.17 10:54:27 testlog - Info message
+[WARNING] 2024.10.17 10:54:27 testlog - Warning message
+[ERROR] 2024.10.17 10:54:27 testlog - Error message
